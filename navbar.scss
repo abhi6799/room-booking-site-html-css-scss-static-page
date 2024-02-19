@@ -1,0 +1,21 @@
+
+
+.navbar-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    div {
+      display: flex;
+      align-items: center;
+  
+      img {
+        margin-right: 4px;
+      }
+  
+      .logo {
+        width: 120px;
+      }
+    }
+  }
+  
